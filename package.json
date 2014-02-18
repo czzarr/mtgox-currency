@@ -1,6 +1,6 @@
 {
   "name": "mtgox-currency",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Helper functions to process amount values sent by the MtGox API",
   "main": "index.js",
   "directories": {
